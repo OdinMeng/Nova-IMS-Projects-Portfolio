@@ -1,6 +1,8 @@
 # NOVA IMS Projects Portfolio
 This is a repository containing a selection of projects done during my exchange semester at NOVA IMS Information Management School, at Lisbon (2024-2025).
 
+**Keywords**: *Data Science, Machine Learning, Generative AI and LLMS*
+
 ---
 
 | **Course** | **Project** |
