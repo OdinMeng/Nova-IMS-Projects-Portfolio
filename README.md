@@ -22,4 +22,10 @@ TBD
 TBD
 
 ## 4. Hospital Data Preprocessing, Analysis and Visualization with SQL and SAS
-TBD
+This project is focused on the data preprocessing part of a data science project. Our goal was to preprocess a transactional table representing the consultations in a hospital, in order to use advanced data analytics methods. Moreover, we were also tasked with the construction of an Analytic-Base-Table (ABT) from the transactional table. In the end, we made various interactive visualization dashboards, obtaining some basic insights about the cleaned datasets. We mainly used software from SAS Studio (SAS Guide and SAS Enterprise Miner) to accomplish data modifications, Power BI to make interactive data visualization panels and Excel to make eventual adjustments to the datasets.
+
+![](images/hospital_logo.png)
+
+![](images/miner_diagram.png)
+
+![](images/powerbi_dashboard.png)
