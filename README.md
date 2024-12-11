@@ -16,7 +16,7 @@ This is a repository containing a selection of projects done during my exchange 
 TBD
 
 ## 2. Obesity Prediction with Supervised Modelling
-TBD
+This project focused on classifying the stages of human obesity based on a variety of features, including weight, height, age, gender, and lifestyle-related factors. To handle missing data, K-Nearest Neighbors (KNN) was used to impute numerical features, while the Iterative Imputer was employed to fill in missing categorical values. Among the models tested, Gradient Boosting emerged as the most accurate, achieving high F1 scores, with performance evaluated using Stratified K-Fold Cross-Validation.
 
 ## 3. NOVA IMS Teachers Segmentation with Unsupervised Modelling
 TBD
