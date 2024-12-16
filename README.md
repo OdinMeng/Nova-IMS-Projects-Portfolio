@@ -11,6 +11,7 @@ This is a repository containing a selection of projects done during my exchange 
 | **Machine Learning I** | 2. Obesity Prediction with Supervised Modelling |
 | **Programming for Data Science** | 3. Web Scraping & Data Analysis for the NOVA IMS Teachers |
 | **Data Preprocessing** | 4. Hospital Data Preprocessing, Analysis and Visualization with SQL and SAS |
+| **Databases I** | 5. ILovePets Database Design |
 
 ---
 
@@ -49,3 +50,6 @@ In the end, we made various interactive visualization dashboards, obtaining basi
 ![](images/miner_diagram.png)
 
 ![](images/powerbi_dashboard.png)
+
+# 5. ILovePets Database Design
+TBD
