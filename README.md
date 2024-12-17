@@ -11,7 +11,7 @@ This is a repository containing a selection of projects done during my exchange 
 | **Machine Learning I** | 2. Obesity Prediction with Supervised Modelling |
 | **Programming for Data Science** | 3. Web Scraping & Data Analysis for the NOVA IMS Teachers |
 | **Data Preprocessing** | 4. Hospital Data Preprocessing, Analysis and Visualization with SQL and SAS |
-| **Databases I** | 5. ILovePets Database Design |
+| **Databases I** | 5. ILovePets Database Design with PowerDesigner and T-SQL |
 
 ---
 
@@ -51,5 +51,15 @@ In the end, we made various interactive visualization dashboards, obtaining basi
 
 ![](images/powerbi_dashboard.png)
 
-# 5. ILovePets Database Design
-TBD
+# 5. ILovePets Database Design with PowerDesigner and T-SQL
+ILovePets is a fictional platform that connects pet owners with pet sitters. Pet sitting consists in taking care of a pet while its owner is away.
+
+We were tasked with developing a SQL database to be implemented with Microsoft SQL software, in two main parts.
+
+The first part involved designing a conceptual database schema to meet business requirements. This included creating an Entity-Relationship model, which was automatically converted into a physical model using PowerDesigner software.
+
+The second part involved creating SQL triggers to meet specific business requirements, such as automatically generating sessions based on a session configuration.
+
+To realize the second part, we also developed scripts for testing purposes, including populating the database and cleaning data and objects.
+
+Images: TBD
