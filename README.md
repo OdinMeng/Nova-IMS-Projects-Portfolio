@@ -20,9 +20,9 @@ UniMatch is a start-up meant to showcase the potentialities of generative AI in 
 
 As the main topic, we chose university orientation, as it is one of the biggest problems affecting students, and one of the solutions could be to use generative AI.
 
-The project entailed three main parts: first, we built the database schema and populated the database with synthetic and real data; then, we built the chatbot with LangChain API, which is able both to handle users' requests and interact with the database; finally, we built a website with Streamlit to deploy the chatbot, incorporating features such as a clean interface, responsive design, and intuitive navigation to ensure a great UX experience.
+The project entailed three main parts: first, we built the database schema and populated the database with synthetic and real data, for testing purposes; then, we built the chatbot with LangChain API, which is able both to handle users' requests and interact with the database; finally, we built a website with Streamlit to deploy the chatbot, incorporating features such as a clean interface, responsive design, and intuitive navigation to ensure a great UX experience.
 
-Link to the project: TBD
+The project is available in the following GitHub repository: TBD
 
 
 ## 2. Obesity Prediction with Supervised Modelling
@@ -62,4 +62,4 @@ The second part involved creating SQL triggers to meet specific business require
 
 To realize the second part, we also developed scripts for testing purposes, including populating the database and cleaning data and objects.
 
-Images: TBD
+![](images/ilovepets_erm.png)
