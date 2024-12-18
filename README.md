@@ -39,6 +39,8 @@ The final stage applied Data Science methods to the dataset. Clustering techniqu
 
 ![](images/pds_tools.png)
 
+![](images/clustering_teachers.png)
+
 
 ## 4. Hospital Data Preprocessing, Analysis and Visualization with SQL and SAS
 This project emphasizes the crucial step of data preprocessing within a broader data science workflow. Our goal was to preprocess a transactional table representing the consultations of a hospital, in order to enable the usage of advanced data analytics methods - such as clustering. 
