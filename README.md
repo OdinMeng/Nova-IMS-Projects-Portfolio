@@ -28,6 +28,10 @@ The project is available in the following GitHub repository: TBD
 ## 2. Obesity Prediction with Supervised Modelling
 This project focused on classifying the stages of human obesity based on a variety of features, including weight, height, age, gender, and lifestyle-related factors. To handle missing data, K-Nearest Neighbors (KNN) was used to impute numerical features, while the Iterative Imputer was employed to fill in missing categorical values. Among the models tested, Gradient Boosting emerged as the most accurate, achieving high F1 scores, with performance evaluated using Stratified K-Fold Cross-Validation.
 
+![](images/gradientboosting.PNG)
+
+![](images/hvrs_results.png)
+
 ## 3. Web Scraping & Data Analysis for the NOVA IMS Teachers
 This project showcases Python's capabilities for a Data Science workflow cycle, structured into three main parts: data integration, data wrangling & analysis, and data science in action.
 
