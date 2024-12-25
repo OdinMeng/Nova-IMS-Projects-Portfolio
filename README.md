@@ -22,7 +22,7 @@ As the main topic, we chose university orientation, as it is one of the biggest 
 
 The project entailed three main parts: first, we built the database schema and populated the database with synthetic and real data, for testing purposes; then, we built the chatbot with LangChain API, which is able both to handle users' requests and interact with the database; finally, we built a website with Streamlit to deploy the chatbot, incorporating features such as a clean interface, responsive design, and intuitive navigation to ensure a great UX experience.
 
-The project is available in the following GitHub repository: TBD
+The project is available in the following **[GitHub repository](https://github.com/OdinMeng/UniMatch)**
 
 
 ## 2. Obesity Prediction with Supervised Modelling
