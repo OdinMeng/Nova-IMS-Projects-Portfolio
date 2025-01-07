@@ -1,4 +1,4 @@
--- Testing Pranas' triggers
+-- Testing Triggers
 USE [iLovePets]
 GO
 

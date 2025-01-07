@@ -24,6 +24,10 @@ The project entailed three main parts: first, we built the database schema and p
 
 The project is available in the following **[GitHub repository](https://github.com/OdinMeng/UniMatch)**
 
+<p float="left">
+  <img src="/images/UniMatchLOGO.png.png" width="100" />
+  <img src="/images/UniMatch_ChatbotPAGE.png.png" width="100" />
+</p>
 
 ## 2. Obesity Prediction with Supervised Modelling
 This project focused on classifying the stages of human obesity based on a variety of features, including weight, height, age, gender, and lifestyle-related factors. To handle missing data, K-Nearest Neighbors (KNN) was used to impute numerical features, while the Iterative Imputer was employed to fill in missing categorical values. Among the models tested, Gradient Boosting emerged as the most accurate, achieving high F1 scores, with performance evaluated using Stratified K-Fold Cross-Validation.
