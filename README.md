@@ -25,8 +25,8 @@ The project entailed three main parts: first, we built the database schema and p
 The project is available in the following **[GitHub repository](https://github.com/OdinMeng/UniMatch)**
 
 <p float="left">
-  <img src="/images/UniMatchLOGO.png.png" width="100" />
-  <img src="/images/UniMatch_ChatbotPAGE.png.png" width="100" />
+  <img src="/images/UniMatchLOGO.png" width="100" />
+  <img src="/images/UniMatch_ChatbotPAGE.png" width="100" />
 </p>
 
 ## 2. Obesity Prediction with Supervised Modelling
