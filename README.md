@@ -30,11 +30,18 @@ The project is available in the following **[GitHub repository](https://github.c
 </p>
 
 ## 2. Obesity Prediction with Supervised Modelling
-This project focused on classifying the stages of human obesity based on a variety of features, including weight, height, age, gender, and lifestyle-related factors. To handle missing data, K-Nearest Neighbors (KNN) was used to impute numerical features, while the Iterative Imputer was employed to fill in missing categorical values. Among the models tested, Gradient Boosting emerged as the most accurate, achieving high F1 scores, with performance evaluated using Stratified K-Fold Cross-Validation.
+The Machine Learning I project involved in creating a supervised model for a multi-class classification task.
+
+The task was to predict obesity levels of an individual according to their features for a given [dataset](https://www.kaggle.com/competitions/predict-obesity-level) on Kaggle Competition. The dataset is based on a variety of features, including weight, height, age, gender, and lifestyle-related factors.
+
+To handle missing data, K-Nearest Neighbors (KNN) was used to impute numerical features, while the Iterative Imputer was employed to fill in missing categorical values. 
+
+Among the models tested, Gradient Boosting emerged as the most accurate, achieving high F1 scores (around 95% F1-score), with performance evaluated using Stratified K-Fold Cross-Validation.
+
+![](images/ml1_competition_header.png)
 
 ![](images/gradientboosting.PNG)
 
-![](images/hvrs_results.png)
 
 ## 3. Web Scraping & Data Analysis for the NOVA IMS Teachers
 This project showcases Python's capabilities for a Data Science workflow cycle, structured into three main parts: data integration, data wrangling & analysis, and data science in action.
