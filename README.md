@@ -30,13 +30,11 @@ The project is available in the following **[GitHub repository](https://github.c
 </p>
 
 ## 2. Obesity Prediction with Supervised Modelling
-The Machine Learning I project involved in creating a supervised model for a multi-class classification task.
+The Machine Learning I project focused on developing a supervised model for a multi-class classification task: predicting individual obesity levels based on features from a [Kaggle competition dataset](https://www.kaggle.com/competitions/predict-obesity-level).
 
-The task was to predict obesity levels of an individual according to their features for a given [dataset](https://www.kaggle.com/competitions/predict-obesity-level) on Kaggle Competition. The dataset is based on a variety of features, including weight, height, age, gender, and lifestyle-related factors.
+The dataset included various attributes, such as weight, height, age, gender, and lifestyle-related factors. To address missing data, K-Nearest Neighbors (KNN) was used to impute numerical features, while the Iterative Imputer handled categorical values.
 
-To handle missing data, K-Nearest Neighbors (KNN) was used to impute numerical features, while the Iterative Imputer was employed to fill in missing categorical values. 
-
-Among the models tested, Gradient Boosting emerged as the most accurate, achieving high F1 scores (around 95% F1-score), with performance evaluated using Stratified K-Fold Cross-Validation.
+After testing several models, Gradient Boosting proved to be the most effective, achieving an F1-score of approximately 95%. Model performance was rigorously evaluated using Stratified K-Fold Cross-Validation.
 
 ![](images/ml1_competition_header.png)
 
