@@ -9,9 +9,9 @@ This is a repository containing a selection of projects done during my exchange 
 |---|---|---|
 | **Capstone Project** | 1. UniMatch, an AI-powered startup | 18.34/20 |
 | **Machine Learning I** | 2. Obesity Prediction with Supervised Modelling | 19/20 |
-| **Programming for Data Science** | 3. Web Scraping & Data Analysis for the NOVA IMS Teachers | 19.9/20 |
-| **Data Preprocessing** | 4. Hospital Data Preprocessing, Analysis and Visualization with SQL and SAS | 19.7/20 |
-| **Databases I** | 5. ILovePets Database Design with PowerDesigner and T-SQL | 19.46 |
+| **Programming for Data Science** | 3. Web Scraping & Data Analysis for the NOVA IMS Teachers | 19.90/20 |
+| **Data Preprocessing** | 4. Hospital Data Preprocessing, Analysis and Visualization with SQL and SAS | 19.70/20 |
+| **Databases I** | 5. ILovePets Database Design with PowerDesigner and T-SQL | 19.46/20 |
 
 \* In most cases, the final evaluation involved also in the project defense, which could include a presentation.
 
